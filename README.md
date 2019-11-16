@@ -1,6 +1,6 @@
 # gitTutorial
 
-hsdfcshbfshd
-sdbhsdbhsbv
-bdhcsdhcbsdbc
-bcasbchsd
+#hsdfcshbfshd
+#sdbhsdbhsbv
+#bdhcsdhcbsdbc
+#bcasbchsd

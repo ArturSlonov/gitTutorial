@@ -21,8 +21,5 @@ getValue() { return this.obj; }
     buildContext() {
 
     }
-
-
-
-
 }
+export default ContextSupport;

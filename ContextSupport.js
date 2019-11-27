@@ -17,7 +17,8 @@ class ContextSupport {
 
     }
 
-getValue() { return this.obj; }
+getContextValue() { return this.Context_Obj; }
+getWebValue(){ return this.Web_Obj; }
 
     buildContext() {
 
